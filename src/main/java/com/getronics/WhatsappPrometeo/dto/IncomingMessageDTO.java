@@ -11,6 +11,6 @@ public class IncomingMessageDTO {
     private String messageId;
     private String senderId;
     private String content;
-    private LocalDateTime timestamp; // Usando LocalDateTime para timestamp
+    private LocalDateTime timestamp;
 }
 
