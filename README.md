@@ -12,12 +12,12 @@ Whatsapp API to interact with clients.
 
 ## Implantation
 - Create an account from facebook and use a number to create a comercial accout at whatsapp. 
-![meta](https://developers.facebook.com/)
-![whatsappbusiness](https://www.facebook.com/business/tools/meta-business-suite)
+
 
 - Create an SpringBoot application with your dependencies and realize the tests.
 - Sends a message to a whatsapp number.
 Postman collection:
+<br>
 ``{
     "messageId": "msg123456",
     "senderId": "whatsapp:+5511998765432",
