@@ -18,12 +18,11 @@ Whatsapp API to interact with clients.
 - Create an SpringBoot application with your dependencies and realize the tests.
 - Sends a message to a whatsapp number.
 Postman collection:
-''{
+``{
     "messageId": "msg123456",
     "senderId": "whatsapp:+5511998765432",
     "content": "Ola tudo bem?",
-    "timestamp": "2024-08-21T14:30:00"
-''}
+``}
 
 ## Diagram
 
