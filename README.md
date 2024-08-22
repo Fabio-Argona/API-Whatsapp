@@ -22,7 +22,7 @@ Postman collection:
     "messageId": "msg123456",
     "senderId": "whatsapp:+5511998765432",
     "content": "Ola tudo bem?",
-``}
+}``
 
 ## Diagram
 
